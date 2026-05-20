@@ -6,7 +6,7 @@
 <body>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CA34D&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+page;I'm+Derek+Westbrooke;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CA34D&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+page:);I'm+Derek+Westbrooke;In+progress..." alt="Typing SVG" />
 </div>
 
 <br>
@@ -44,42 +44,93 @@
 
 <h2>🛠️ Tech stack</h2>
 
-<div align="center">
+<div align="justify">
   <table border="1" cellpadding="8" cellspacing="0">
     <thead>
       <tr><th>Category</th><th>Icon</th><th>Technology</th></tr>
     </thead>
     <tbody>
-      <tr><td rowspan="5"><strong>Languages</strong></td><td><img src="ico/c.png" height="24"></td><td>C</td></tr>
-      <tr><td><img src="ico/c_pp.png" height="24"></td><td>C++</td></tr>
-      <tr><td><img src="ico/c_s.png" height="24"></td><td>C#</td></tr>
-      <tr><td><img src="ico/python.png" height="24"></td><td>Python</td></tr>
-      <tr><td><img src="ico/labview.png" height="24"></td><td>LabView</td></tr>
-      <tr><td rowspan="2"><strong>Frameworks & GUI</strong></td><td><img src="ico/qt.png" height="24"></td><td>Qt</td></tr>
-      <tr><td><img src="ico/pyqt5.png" height="24"></td><td>PyQt5</td></tr>
-      <tr><td rowspan="4"><strong>Databases</strong></td><td><img src="ico/postgre.png" height="24"></td><td>PostgreSQL</td></tr>
-      <tr><td><img src="ico/sqlite.png" height="24"></td><td>SQLite</td></tr>
-      <tr><td><img src="ico/mysql.png" height="24"></td><td>MySQL</td></tr>
-      <tr><td><img src="ico/mongodb.png" height="24"></td><td>MongoDB</td></tr>
-      <tr><td rowspan="6"><strong>DevOps & Tools</strong></td><td><img src="ico/docker.png" height="24"></td><td>Docker</td></tr>
-      <tr><td><img src="ico/vmware.png" height="24"></td><td>VMware</td></tr>
-      <tr><td><img src="ico/linux.png" height="24"></td><td>Linux</td></tr>
-      <tr><td><img src="ico/git.png" height="24"></td><td>Git</td></tr>
-      <tr><td><img src="ico/virtualbox.png" height="24"></td><td>VirtualBox</td></tr>
-      <tr><td><img src="ico/bash.png" height="24"></td><td>Bash</td></tr>
-      <tr><td rowspan="10"><strong>Python Ecosystem</strong></td><td><img src="ico/selenium.png" height="24"></td><td>Selenium</td></tr>
-      <tr><td><img src="ico/pandas.png" height="24"></td><td>Pandas</td></tr>
-      <tr><td><img src="ico/numpy.png" height="24"></td><td>NumPy</td></tr>
-      <tr><td><img src="ico/beautifulsoup.png" height="24"></td><td>BeautifulSoup</td></tr>
-      <tr><td><img src="ico/aiogram.png" height="24"></td><td>Aiogram</td></tr>
-      <tr><td><img src="ico/matplotlib.png" height="24"></td><td>Matplotlib</td></tr>
-      <tr><td><img src="ico/requests.png" height="24"></td><td>Requests</td></tr>
-      <tr><td><img src="ico/re.png" height="24"></td><td>re</td></tr>
-      <tr><td><img src="ico/hashlib.png" height="24"></td><td>hashlib</td></tr>
-      <tr><td><img src="ico/logging.png" height="24"></td><td>logging</td></tr>
+      <!-- Languages -->
+      <tr><td rowspan="5"><strong>Languages</strong></td>
+        <td><img src="https://cdn.simpleicons.org/c" width="28"></td>
+        <td>C</td>
+      </tr>
+      <tr><td><img src="https://cdn.simpleicons.org/cplusplus" width="28"></td><td>C++</td></tr>
+      <tr><td><img src="https://iconic-api.onrender.com/dark/csharp" width="28"></td><td>C#</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>Python</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/labview" width="28"></td><td>LabView</td></tr>      
+      <!-- Frameworks -->
+      <tr><td rowspan="2"><strong>Frameworks & GUI</strong></td>
+        <td><img src="https://cdn.simpleicons.org/qt" width="28"></td>
+        <td>Qt</td>
+      </tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>PyQt5</td></tr>      
+      <!-- Databases -->
+      <tr><td rowspan="4"><strong>Databases</strong></td>
+        <td><img src="https://cdn.simpleicons.org/postgresql" width="28"></td>
+        <td>PostgreSQL</td>
+      </tr>
+      <tr><td><img src="https://cdn.simpleicons.org/sqlite" width="28"></td><td>SQLite</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/mysql" width="28"></td><td>MySQL</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/mongodb" width="28"></td><td>MongoDB</td></tr>      
+      <!-- DevOps -->
+      <tr><td rowspan="6"><strong>DevOps & Tools</strong></td>
+        <td><img src="https://cdn.simpleicons.org/docker" width="28"></td>
+        <td>Docker</td>
+      </tr>
+      <tr><td><img src="https://cdn.simpleicons.org/vmware" width="28"></td><td>VMware</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/linux" width="28"></td><td>Linux</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/git" width="28"></td><td>Git</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/virtualbox" width="28"></td><td>VirtualBox</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/gnubash" width="28"></td><td>Bash</td></tr>      
+      <!-- Python Ecosystem -->
+      <tr><td rowspan="10"><strong>Python Ecosystem</strong></td>
+        <td><img src="https://cdn.simpleicons.org/selenium" width="28"></td>
+        <td>Selenium</td>
+      </tr>
+      <tr><td><img src="https://cdn.simpleicons.org/pandas" width="28"></td><td>Pandas</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/numpy" width="28"></td><td>NumPy</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>BeautifulSoup</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>Aiogram</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>Matplotlib</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>Requests</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>re</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/hashicorp" width="28"></td><td>hashlib</td></tr>
+      <tr><td><img src="https://cdn.simpleicons.org/python" width="28"></td><td>logging</td></tr>
     </tbody>
   </table>
 </div>
+
+<br>
+
+<h2>📚 Courses & learning</h2>
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th style="border: 1px solid #d0d7de; padding: 8px 12px;">Field</th>
+      <th style="border: 1px solid #d0d7de; padding: 8px 12px;">Platform / Resource</th>
+      <th style="border: 1px solid #d0d7de; padding: 8px 12px;">Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">🔐 Cybersecurity</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">TeachMeSkills</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">✅ Certificate</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">🐍 Python, 🗄️ SQL, 🐳 Docker</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">Stepik</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">✅ Certificates</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">🗣️ English</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">MARB</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px;">✅ Certificates</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
